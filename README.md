@@ -1,19 +1,19 @@
 # TIL
-
 > Today I Learned
 
-A collection of concise write-ups on small things I learn day to day across a
-variety of languages and technologies.
+
+A collection of concrete writeups of small things I learn daily.
+
+
+_1 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [Curl](#curl)
+- [curl](#curl)
 
----
+### [curl](#curl)
+- [Fetch Only URL Info](curl/fetch_only_headers.md)
 
-### Curl
-
-- [Fetch Only Headers](curl/fetch_only_headers.md)
 
