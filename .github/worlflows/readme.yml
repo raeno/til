@@ -1,0 +1,9 @@
+- name: TIL Auto-Format README
+  uses: cflynn07/github-action-til-autoformat-readme@1.1.0
+  with:
+    # Description text block featured at the top of your README.md
+    description: # optional, default is 
+    # Footer text block, can be used for things like markdown links
+    footer: # optional, default is 
+    # List most recent n TILs in section below description
+    list_most_recent: # optional, default is 0
