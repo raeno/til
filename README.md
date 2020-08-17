@@ -5,7 +5,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -19,5 +19,6 @@ _2 TILs and counting..._
 
 ### [postgresql](#postgresql)
 - [Show all tables sizes ordered](postgresql/list_tables_ordered_by_size.md)
+- [## MacOS Homebrew PG::ConnectionBad issue](postgresql/macos_pg_connection_bad.md)
 
 
