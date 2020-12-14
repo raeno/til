@@ -19,6 +19,6 @@ _3 TILs and counting..._
 
 ### [postgresql](#postgresql)
 - [Show all tables sizes ordered](postgresql/list_tables_ordered_by_size.md)
-- [## MacOS Homebrew PG::ConnectionBad issue](postgresql/macos_pg_connection_bad.md)
+- [MacOS Homebrew PG::ConnectionBad issue](postgresql/macos_pg_connection_bad.md)
 
 
