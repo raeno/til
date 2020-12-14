@@ -1,4 +1,4 @@
-### MacOS Homebrew PG::ConnectionBad issue
+# MacOS Homebrew PG::ConnectionBad issue
 
 #### Problem
 
